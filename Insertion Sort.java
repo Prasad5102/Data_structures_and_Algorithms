@@ -6,7 +6,7 @@ class Solution
   {
        // Your code here
   }
-  //Function to sort the array using insertion sort algorithm.
+  //Function to sort the array using insertion sort algorithm
   public void insertionSort(int arr[], int n)
   {
       //code here
